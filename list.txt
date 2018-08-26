@@ -12,4 +12,3 @@ https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
 https://github.com/anudeepND/youtubeadsblacklist/blob/master/domainlist.txt
 http://adblock.amroemischengutshof.de/youtube-ads-list.txt
-r[0-9]*([-]{1,3}|.)sn-[a-z0-9]{8}\.googlevideo\.com
